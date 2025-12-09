@@ -17,3 +17,31 @@ print("age:", user_age)
 print("Balance:", bank_balance)
 print("Color:", favorite_color)
 print("Is Adult:",is_adult)
+
+
+first ="Hello"
+last ="World"
+greeting = first + "" + last # Results in "Hello World"
+
+start_line = "*" * 10 # Results in "**********" 
+
+result = 15 / 3 # Division 
+print(type(result)) # Output will be: <class 'float'>
+
+
+
+# --- Arithmetic Operations ---
+a = 20
+b = 4
+
+#Addition
+
+print("A + B:", a + b)
+
+# Division 
+
+print("A / B:", a / b)
+
+# Modulo (Remainder)
+
+print("A % B:", a % b)
